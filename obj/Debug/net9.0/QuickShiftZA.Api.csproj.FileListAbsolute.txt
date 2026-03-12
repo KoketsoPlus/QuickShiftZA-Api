@@ -132,3 +132,15 @@ C:\Huawei\QuickShiftZA.Api\obj\Debug\net9.0\refint\QuickShiftZA.Api.dll
 C:\Huawei\QuickShiftZA.Api\obj\Debug\net9.0\QuickShiftZA.Api.pdb
 C:\Huawei\QuickShiftZA.Api\obj\Debug\net9.0\QuickShiftZA.Api.genruntimeconfig.cache
 C:\Huawei\QuickShiftZA.Api\obj\Debug\net9.0\ref\QuickShiftZA.Api.dll
+C:\Huawei\QuickShiftZA.Api\obj\Debug\net9.0\QuickShiftZA.Api.sourcelink.json
+C:\Huawei\QuickShiftZA.Api\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Huawei\QuickShiftZA.Api\bin\Debug\net9.0\AWSSDK.S3.dll
+C:\Huawei\QuickShiftZA.Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Huawei\QuickShiftZA.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Huawei\QuickShiftZA.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Huawei\QuickShiftZA.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Huawei\QuickShiftZA.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Huawei\QuickShiftZA.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Huawei\QuickShiftZA.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Huawei\QuickShiftZA.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Huawei\QuickShiftZA.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
