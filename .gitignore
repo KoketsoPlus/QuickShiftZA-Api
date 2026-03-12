@@ -1,0 +1,14 @@
+# Ignore sensitive config
+appsettings.json
+appsettings.*.json
+
+# Ignore build files
+bin/
+obj/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore user secrets
+*.user
+*.suo
