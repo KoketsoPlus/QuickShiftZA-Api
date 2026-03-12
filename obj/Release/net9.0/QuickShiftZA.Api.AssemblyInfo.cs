@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickShiftZA.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c12266917142f5d8b7cfa21d6a0bc1e237cbeb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickShiftZA.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickShiftZA.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
