@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickShiftZA.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbbb7ce0013265ee564df16d71ffb700f5360555")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8338cf9bb2c0e5d94d9674988380d12958fc9e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickShiftZA.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickShiftZA.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
